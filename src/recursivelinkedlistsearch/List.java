@@ -5,7 +5,6 @@
  */
 package recursivelinkedlistsearch;
 
-import recursivelinkedlistsearch.ListNode;
 
 /**
  *
